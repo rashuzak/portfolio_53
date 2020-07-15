@@ -1,0 +1,18 @@
+.auth-image1 {
+  /* float: left; */
+  width: 35px;
+  height: 75px;
+  /* margin-top: 10px;
+  margin-right: 25px; */
+  /* padding-left: 75px;*/
+}
+
+.auth-image2 {
+  /* float: left; */
+  border-image: fill;
+  width: 110px;
+  height: 153px;
+  /* margin-top: 10px;
+    margin-right: 25px; */
+  /* padding-left: 75px;*/
+}
